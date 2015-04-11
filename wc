@@ -1,0 +1,3 @@
+wc displays the number of lines, words & characters of a file as its basic function. 
+
+Adding the -l flag will simply show the number of lines a file contains.
